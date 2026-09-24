@@ -1,16 +1,17 @@
-h1 {
-  color: brown;
-}
+<style>
+        h1 {
+          color: brown;
+        }
 
-#about-udaipur {
-  background-color: lightgreen;
-}
+        #about-udaipur {
+          background-color: lightgreen;
+        }
 
-#key-of-city {
-  color: darkgreen;
-}
+        #key-of-city {
+          color: darkgreen
+        }
 
-.centered-image {
+        .centered-image {
   display: flex;
   justify-content: center;
 }
@@ -19,3 +20,5 @@ h1 {
   display: block;
   margin: 0 auto;
 }
+
+      </style>
