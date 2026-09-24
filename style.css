@@ -1,0 +1,21 @@
+h1 {
+  color: brown;
+}
+
+#about-udaipur {
+  background-color: lightgreen;
+}
+
+#key-of-city {
+  color: darkgreen;
+}
+
+.centered-image {
+  display: flex;
+  justify-content: center;
+}
+
+.centered-image img {
+  display: block;
+  margin: 0 auto;
+}
